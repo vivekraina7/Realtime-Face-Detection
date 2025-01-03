@@ -1,6 +1,6 @@
 protobuf==3.20.*
 opencv-python==4.5.5.62
 Pillow
-streamlit==1.5.0
+streamlit
 streamlit-webrtc==0.34.2
 av
