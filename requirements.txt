@@ -4,3 +4,4 @@ Pillow
 streamlit==1.4.0
 streamlit-webrtc
 av
+altair<5
